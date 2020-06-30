@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "learngaroo-speec-1580212146084",
+  "private_key_id": "7adaee46ce5f93d19ba175d7a7c61e8d09d73ad6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyaW4PgGhQgrLV\nAbzlBuCKpLD+BiUjxscQdjYvW9eX6BZeRjyCmwsjvqFYRL8MuI6t0og7EBIq/MCN\nMiCuCpjsIFtZBwZys8kAlgSsgbg63WraXk5ERPEPmPCWPJGpnDpROR7tDPJNza7S\nEsLXMPT06e0z+wD35P2rRAWE7yEQo/tzE1md4EAUzGv3HuxfL8k9zMseAkCF0GhS\nkAVHxy1fFlNXR1R6V6ejkw+gVTPmwU3lz9hLoOAW1GaRry1RgDi3/F4xzC8ZR/7r\nnLyvcfK3FDm0YNYsNjanWoaBPkh3p5QxcaWau3YCZe7S255nU73t3Hik7ahzKCkH\nCqEMM3pxAgMBAAECggEAFpkODL6Z9+CmIB7JO0UkucrkdDh5CdAKtMYUVOlQJHiM\nJMLGtVBIF+30Z8bFYCocQF4TTU/azUEYbonz47eJ6RasG1mtcmfdRMq7qtH/cM1M\n1H3vcew9kFkx2AWx+YbFSDZw+VuTcVFlHEyuCy2zSTY8CkJ3u+5wRvolrNHRIVc9\nw0pmPlq+jmjE46IamnBlbZOl9C1Li+FLxyjvGVyIXmuOiRWNomKRuc0qgxmskAgw\nlKS27QhUcH22LZl/qNL4HBzuV4LK7mzxvOX7v96/T8Ue9w8oo486Xa/lafS2G+9R\nbAODdA3wKMo+ArqvSazh03bmpkMcGvABNKQSktPM1QKBgQDZnMex1T0A34r9Z02G\nLMRj7UMUe3U/fk38/MnX9oC99c87qTJTakl4zIs3hR6Ycy2UQX+4igxXISt/Z5XG\n2/3ZPNrNRuw2V5xKglt9gs7jgpBFrYQWWQV/ZldM4zuOZu1NvRWYLXtFXDkVkdZY\nZt+YJjCsbGSCsIgK/yf89uKIlwKBgQDR4mEyI1ZlsPGEYkSb3z62k/N6IgjFqFfX\nGwiRGwI55+havIsJRJmTJmJpGy0+DBY4Pmje6H3yINyJ7TNrwOSRh/1wVlDsecGo\nU6z7BfLd6EwcXAmhXTOtwgmi+FYNtqG/JpV+CSIVfN5WR2IJ4llVG6/Nqk+HFrjI\n3NMXVYsuNwKBgQDUU4YBPQeFt5f9AnOA7GM/APyHmqJfLlTX+KrU3n7lWlc2ZjNl\ncnp3tFRN+sRMiW06j+IX5BKAXSv85swcOQBpm1f+HSpTJ46moKS2RRCqqfUtF02f\nJIMZuHiL29d7bXAzfr/4OMBjf8VvB1n17YJTCUhKpIQ5hBdpa2bQCvAjxwKBgB3x\nlDhY/kyH0A05D9zFHudheE0maeX5PH795lz9Y3XrdiTr3VI3LUnnIgcoz22Yv9rK\nXJ/gv4c51P0AkGOBI5r3sdrDFcyHGm/vcDBoCtxJ9gHdx6nz6BmUI1fS4kQWmEDz\nOkS+/NPf+sCIcp5CYshXqN9Iuwvk2/wcNSmRFMhFAoGBANh/Rgazzs9eKEtzbNNe\nK75r3qXZFEuD/AR55vJjoSfbfDDLE87aKD/nV1ntNZsqMcAqvu60v5WSXoEqkTkj\nZiXNjrdyxvhQSEXWzJo/jYnmO4t/mMjdlK/iaIyZVp6CLeZWnhng24P1q7FmLAtK\nDBLSx9osonliCVeeuaC5fzFa\n-----END PRIVATE KEY-----\n",
+  "client_email": "learngaroo-168@learngaroo-speec-1580212146084.iam.gserviceaccount.com",
+  "client_id": "114336749320977010593",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/learngaroo-168%40learngaroo-speec-1580212146084.iam.gserviceaccount.com"
+}
